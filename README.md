@@ -1,101 +1,62 @@
-Python-for-ML
+# Python-for-ML
 
-This repository contains Python notebooks designed to build a strong foundation in Python programming and data handling concepts required for Machine Learning. It covers core Python topics along with popular data science libraries through hands-on Jupyter notebooks and practice exercises.
+This repository contains Jupyter notebooks for learning Python programming and data handling concepts required for Machine Learning.
 
-Overview
+The notebooks cover Python fundamentals, numerical computing, data analysis, and data visualization using popular Python libraries.
 
-The goal of this project is to help beginners and intermediate learners understand Python fundamentals and data manipulation techniques before moving into machine learning algorithms. The notebooks gradually progress from basic Python concepts to data analysis and visualization.
+---
 
-Topics Covered
+## Overview
 
-Python Data Structures
+The purpose of this repository is to build a strong foundation in Python before moving on to Machine Learning algorithms. Each notebook focuses on a specific topic with examples and practice tasks.
 
-Functions and Practice Problems
+---
 
-File Handling
+## Topics Covered
 
-Object-Oriented Programming (OOP)
+- Python Data Structures  
+- Functions  
+- File Handling  
+- Object-Oriented Programming (OOP)  
+- NumPy  
+- Pandas  
+- Data Cleaning and Analysis  
+- Data Visualization  
+  - Matplotlib  
+  - Seaborn  
+  - Plotly  
+- Practice Exercises  
+- CSV Datasets  
 
-NumPy Basics and Advanced Operations
+---
 
-Pandas Data Analysis
+## Repository Structure
 
-Data Cleaning and Manipulation
-
-Data Visualization using:
-
-Matplotlib
-
-Seaborn
-
-Plotly
-
-Repository Structure
-Python-for-ML/
-├── Data Structures & Functions
-├── File Handling & OOP
+├── Python Basics Notebooks
 ├── NumPy Notebooks
 ├── Pandas Notebooks
 ├── Visualization Notebooks
 ├── Practice Notebooks
-├── CSV Datasets
+├── CSV Dataset Files
 └── README.md
 
+---
 
-Each notebook focuses on a specific topic and includes examples and practice tasks using real datasets.
+## Requirements
 
-Requirements
+- Python 3.x  
+- Jupyter Notebook  
 
-To run the notebooks, you need:
+### Libraries Used
 
-Python 3.8 or higher
-
-Jupyter Notebook or JupyterLab
-
-Required Libraries
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-jupyter
-
+- numpy  
+- pandas  
+- matplotlib  
+- seaborn  
+- plotly  
+- jupyter  
 
 Install all dependencies using:
 
+```bash
 pip install numpy pandas matplotlib seaborn plotly jupyter
-
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/Ovizero01/Python-for-ML.git
-
-
-Navigate to the project directory:
-
-cd Python-for-ML
-
-
-Start Jupyter Notebook:
-
-jupyter notebook
-
-
-Open any notebook and run the cells sequentially.
-
-Learning Outcome
-
-By completing this repository, you will:
-
-Gain confidence in Python programming
-
-Understand data manipulation using NumPy and Pandas
-
-Learn data visualization techniques
-
-Be prepared to start Machine Learning projects
-
-License
-
-This project is for educational purposes. No license has been specified.
