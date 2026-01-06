@@ -30,9 +30,16 @@ The purpose of this repository is to build a strong foundation in Python before 
 
 ---
 
-**Repository Structure:**
+## Repository Structure
 
-Python Basics Notebooks | NumPy Notebooks | Pandas Notebooks | Visualization Notebooks | Practice Notebooks | CSV Dataset Files | README.md
+- Python Basics Notebooks  
+- NumPy Notebooks  
+- Pandas Notebooks  
+- Visualization Notebooks  
+- Practice Notebooks  
+- CSV Dataset Files  
+- README.md  
+
 
 
 ---
