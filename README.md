@@ -56,6 +56,14 @@ The purpose of this repository is to build a strong foundation in Python before 
 - matplotlib  
 - seaborn  
 - plotly  
+- jupyter  
+
+Install all dependencies using:
+
+```bash
+pip install numpy pandas matplotlib seaborn plotly jupyter
+
+- plotly  
 - jupyter
 ```bash
 pip install numpy pandas matplotlib seaborn plotly jupyter
