@@ -62,8 +62,3 @@ Install all dependencies using:
 
 ```bash
 pip install numpy pandas matplotlib seaborn plotly jupyter
-
-- plotly  
-- jupyter
-```bash
-pip install numpy pandas matplotlib seaborn plotly jupyter
