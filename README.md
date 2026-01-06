@@ -57,7 +57,9 @@ The purpose of this repository is to build a strong foundation in Python before 
 - seaborn  
 - plotly  
 - jupyter
-  
+
+---
+
 ## Usage
 
 Clone the repository:
@@ -66,6 +68,5 @@ Clone the repository:
 git clone https://github.com/Ovizero01/Python-for-ML.git
 cd Python-for-ML
 Install all dependencies using:
-
 ```bash
 pip install numpy pandas matplotlib seaborn plotly jupyter
