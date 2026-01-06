@@ -56,8 +56,15 @@ The purpose of this repository is to build a strong foundation in Python before 
 - matplotlib  
 - seaborn  
 - plotly  
-- jupyter  
+- jupyter
+  
+## Usage
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Ovizero01/Python-for-ML.git
+cd Python-for-ML
 Install all dependencies using:
 
 ```bash
